@@ -3,7 +3,7 @@ I'm Michael Webb, more commonly known as TheRandomMelon/MichaelWebbTRM online. I
 
 🔵 **Neptune** - A social video sharing website. [@WatchNeptuneTV](https://twitter.com/WatchNeptuneTV)
 
-💻 **Histacom3** - 12padams's time-travelling hacking game, remade and rewritten to fix many issues. VERY WIP, check out the repo [here](https://github.com/TheRandomMelon/Histacom2).
+💻 **Histacom** - 12padams's time-travelling hacking game, remade and rewritten to fix many issues. VERY WIP, check out the repo [here](https://github.com/TheRandomMelon/Histacom2).
 
 If I remember any more significant projects, I'll add them here.
 
