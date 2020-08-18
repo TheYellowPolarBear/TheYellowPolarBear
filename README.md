@@ -1,13 +1,13 @@
 ### Hey there!
-My name is Samuel Campbell, or better known online as TheYellowPolarBear. You won't necessarily see anything important on here. My GitHub mainly consists or stupid random inside jokes and my website which I haven't been bothered to work on yet. I''m far more active on my other social platforms
+My name is Samuel Campbell, or better known online as TheYellowPolarBear. You won't necessarily see anything important on here. My GitHub mainly consists or [stupid random](https://github.com/TheYellowPolarBear/therandommelon.xyz) [inside jokes](https://github.com/TheYellowPolarBear/triforceinformer) and my website which I haven't been bothered to work on yet. I'm far more active on my other social platforms, which are all listed below.
 
 ### Social media
 
-📹 **YouTube** [/TheRandomMelon](https://youtube.com/TheYellowPolarBear)
+📹 **YouTube** [/TheYellowPolarBear](https://youtube.com/TheYellowPolarBear)
 
-🐦 **Twitter** [@michaelwebbtrm](https://twitter.com/samuel_typb)
+🐦 **Twitter** [@samuel_typb](https://twitter.com/samuel_typb)
 
-🎮 **Twitch**  [@michaelwebbtrm](https://twitch.tv/theyellowpolarbear)
+🎮 **Twitch**  [@samuel_typb](https://twitch.tv/theyellowpolarbear)
 
 💬 **Discord** [samuel lounges](https://discord.gg/jBqWf8n)
 
