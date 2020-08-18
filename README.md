@@ -1,5 +1,5 @@
 ### Hey there!
-My name is Samuel Campbell, or better known online as TheYellowPolarBear. You won't necessarily see anything important on here. My GitHub mainly consists of [stupid random](https://github.com/TheYellowPolarBear/therandommelon.xyz) [inside jokes](https://github.com/TheYellowPolarBear/triforceinformer) and my website which I haven't been bothered to work on yet. I'm far more active on my other social platforms, which are all listed below.
+My name is Samuel Campbell, or better known online as TheYellowPolarBear. You won't necessarily see anything important on here. My GitHub mainly consists of [stupid random](https://github.com/TheYellowPolarBear/therandommelon.xyz) [inside jokes](https://github.com/TheYellowPolarBear/triforceinformer) and [my website](https://github.com/TheYellowPolarBear/typb.stream) which I haven't been bothered to work on yet. I'm far more active on my other social platforms, which are all listed below.
 
 ### Social media
 
